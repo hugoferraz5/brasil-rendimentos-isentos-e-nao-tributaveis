@@ -45,6 +45,26 @@ Análises explanatórias: [Análises explanatórias](https://github.com/hugoferr
 5. **Rodar o projeto:**
   
 ```bash
-   streamlit run dashboard.py 
-   ```  
-  
+   streamlit run dashboard.py
+   ```
+
+## Ferramentas
+- **Frontend**: Streamlit
+- **Processamento de dados**: Pandas, NumPy
+- **Visualização**: Plotly, Seaborn
+
+## Imagens
+
+![Visão Geral](https://github.com/user-attachments/assets/88828e3d-d7f7-4d19-b5bf-b85de6e3c433)
+*Visão Geral*
+
+#### Após escolher uma opção de rendimento:
+
+![Gráfico 1](https://github.com/user-attachments/assets/4bfa5b28-80ab-4c06-b9ed-7471d89171cc)
+*Gráfico 1*
+
+![Gráfico 2](https://github.com/user-attachments/assets/dfadd998-fe9a-4b95-b87f-bf0be5aa1882)
+*Gráfico 2*
+
+![Gráfico 3](https://github.com/user-attachments/assets/34b518cd-9b64-4144-a5b0-17f7a4bf6a43)
+*Gráfico 3*
